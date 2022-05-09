@@ -313,8 +313,6 @@ a {
   height: 100%;
   min-height: 275px;
   transition: all 1s ease;
-  bottom: -300px;
-  opacity: 0;
 }
 
 .itemCUs::before {
