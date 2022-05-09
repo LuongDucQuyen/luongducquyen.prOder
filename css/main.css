@@ -313,6 +313,7 @@ a {
   height: 100%;
   min-height: 275px;
   transition: all 1s ease;
+  /* helo */
 }
 
 .itemCUs::before {
